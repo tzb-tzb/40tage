@@ -1,0 +1,10 @@
+START HIER
+
+1. Bilder als tag01.jpg bis tag40.jpg in /bilder legen.
+2. Die Konzert-Überraschung für Tag 1 ist schon eingebaut.
+3. Danach ALLE Dateien in dein GitHub-Repository hochladen.
+4. Settings → Pages → Deploy from a branch → main → /(root).
+5. Die angezeigte GitHub-Pages-URL testen.
+6. Aus genau dieser URL den Geschenk-QR-Code erstellen.
+
+Die ausführliche Anleitung steht in README.txt.
